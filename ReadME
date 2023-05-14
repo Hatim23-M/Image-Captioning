@@ -1,0 +1,7 @@
+Find the code for an Image Captioning tool.
+
+It uses a pretrained blip model by Salesforce - https://huggingface.co/Salesforce/blip-image-captioning-large
+
+It can generate 2 types of captions- 
+    A simple one where user can upload an image and an automatic caption is generated. 
+    The other one where user uploads an image along with a text. The tool then displays a caption starting with the given text.
